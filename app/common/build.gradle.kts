@@ -57,5 +57,4 @@ kotlin {
         implementation(libs.konsist)
     }
 
-
 }
